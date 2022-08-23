@@ -1,0 +1,5 @@
+.idea/
+main-app/node_modules
+angular-app1/node_modules
+vue2-app2/node_modules
+vue3-app/node_modules
